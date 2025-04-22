@@ -1,6 +1,5 @@
 ---
 title: 'Eshana'
-draft: false
 ---
 
 # Eshana
