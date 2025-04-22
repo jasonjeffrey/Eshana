@@ -1,6 +1,7 @@
-{
-    "title": "Skalvik"
-}
+---
+    title: "Skalvik"
+    draft: false
+---
 # Skalvik
 
 a humble fishing village tucked deep within a wide, icy, majestic fjord. Towering snow-covered mountains rise high into the sky to the north, their jagged peaks often shrouded in mist and veiled by drifting snow. The village itself clings to the rocky shoreline, where the frigid sea laps against frost-rimed docks and weathered boats bob gently in the current.

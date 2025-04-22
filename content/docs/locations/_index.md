@@ -1,5 +1,5 @@
 ---
-    title: "Locations",
+    title: "Locations"
     weight: 10
     draft: false
 ---
