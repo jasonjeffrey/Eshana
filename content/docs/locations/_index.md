@@ -1,6 +1,7 @@
-{
-    "title": "Locations",
-    "weight": 10
+---
+    title: "Locations",
+    weight: 10
+    draft: false
 }
 
 
