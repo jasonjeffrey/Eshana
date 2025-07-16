@@ -1,11 +1,13 @@
 ---
 title: "Nymphadora Nightingale"
 ---
+# Nymphadora Nightingale
 ## Summary
 | Level   | 1    |
 | ------- | ---- |
 | Species | Elf  |
 | Class   | Bard |
+
 ## Backstory
 Elenara Rosewood had a happy childhood. The only child of a noble high elf family, she wanted for nothing but the values her parents imparted on her ensured she did not grow up spoiled, conceited or arrogant. They encouraged her in her studies from a young age, but also taught her the importance of creativity, relaxation, and appreciating the beauty of nature. For the latter, she was allowed to roam the acres of land around the manor - one of her favourite pastimes, second only to reading. 
 
