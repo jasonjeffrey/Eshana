@@ -1,12 +1,15 @@
+---
+title: Session 1
+---
 # Session 1
 
-[[Ek'ho the Moon Thief]] in his search to find more on how he can fulfil his ambition to return to the sky and find more about the gods. Found himself entering the small north western village of [[Skalvik]]. 
+[Ek'ho the Moon Thief]({{< ref "/docs/players/ekho" >}}) in his search to find more on how he can fulfil his ambition to return to the sky and find more about the gods. Found himself entering the small north western village of [Skalvik]({{< ref "/docs/locations/Dorangar/skalvik" >}}). 
 
 it is mid morning on the first day of the third week of the time of Æostara (3rd Week of Spring). Upon entering the village he witnesses a small funeral party heading up from the dockside. they stop to lay alpine flowers at the foot of what appears to be an ice sculpture of a male dwarf. a few are sobbing but the party continue and enter the large 2 story longhouse at the head of main street within the village.
 
-Ek'ho follows the party into longhouse which turns out to be the village's Mead House. Inside the Mead house, he sees two warriors at the bar drinking and chatting who he later discovers to be [[Bragat Kickback]] and [[Tristan the brave]]. Off to his left, he sees the funeral party and on the stage [[Nymphadora Nightingale (Elenara Rosewood)]] playing the lute and singing about the story of the lost pearl. Finally to the right, in a dark corner is a hooded figure sitting alone.
+Ek'ho follows the party into longhouse which turns out to be the village's Mead House. Inside the Mead house, he sees two warriors at the bar drinking and chatting who he later discovers to be [Bragat Kickback]({{< ref "/docs/players/bragat" >}}) and [Tristan the Brave]({{< ref "/docs/players/tristan" >}}). Off to his left, he sees the funeral party and on the stage [Nymphadora Nightingale]({{< ref "/docs/players/nymphadora" >}}) playing the lute and singing about the story of the lost pearl. Finally to the right, in a dark corner is a hooded figure sitting alone.
 
-Fascinated by the subject of the lost pearl watches Nymphadora intently. At the End of her set she heads to the bar. After a discussion at the bar between the four members on their shared interest in the gods and mythology. They enquire a little more about the wake happening off to one side of the bar. The bartender explains that the ice sculpture in the middle of the town is actually [[Skarn Ironmourn]] an explorer who had recently returned from the [[Draugfrost]]. After his return he froze to death where he stands.  The bartender also explains that the hooded dwarf is only known to him as [[The Recruiter]]. He visits the village now and then and trys to recruit strong and able bodied creatures.
+Fascinated by the subject of the lost pearl watches Nymphadora intently. At the End of her set she heads to the bar. After a discussion at the bar between the four members on their shared interest in the gods and mythology. They enquire a little more about the wake happening off to one side of the bar. The bartender explains that the ice sculpture in the middle of the town is actually [Skarn Ironmourn]({{< ref "/docs/npcs/dorangar/skarnironmourn" >}}) an explorer who had recently returned from the [Draugfrost]({{< ref "/docs/locations/Dorangar/draugfrost" >}}). After his return he froze to death where he stands.  The bartender also explains that the hooded dwarf is only known to him as [[The Recruiter]]. He visits the village now and then and trys to recruit strong and able bodied creatures.
 
 Intrigued by both the wake and the hooded figure the group of 4 split to discuss with both.
 
@@ -14,7 +17,7 @@ Those who approached the wake were meet by a the Village Chieftan. He explained 
 
 The party who spoke with The Recruiter. he did not reveal much only he was looking for able bodies to help with a simple task. to drive an oxen led cart to his friends in the town in [[Eidvarn]]. The party would be paid 40gp on the safe delivery of the cart but were strictly asked not to look within its crates. With some bribery of Ale the recruiter let slip, a logo that was stitched within his jacket. A Silvery Egg shape, held upon a golden hand.
 
-The Party regrouped and after a discussion and there shared interest in the gods. They decided to accept the recruiters offer and collected the cart and set off for Eidvarn along the [[Great Western Road]].
+The Party regrouped and after a discussion and there shared interest in the gods. They decided to accept the recruiters offer and collected the cart and set off for Eidvarn along the [Great Western Road]({{< ref "/docs/locations/Dorangar/greatwesternroad" >}}).
 
 during the 3 and a half day trek, Nymph spent time studying a collection of history articles she had collected and found reference to a ancient magical disease called the [[Frigid Woe]] created by the advanced organisation of spellcasters who were is search of the gateway to [[Ulthevir]] in the Draugfrost. The group have long since disappeared and they held the only known cure. 
 

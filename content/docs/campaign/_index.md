@@ -1,4 +1,4 @@
 ---
-title: NPCs
+title: Campaigns
 bookCollapseSection: true
 ---

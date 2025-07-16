@@ -1,4 +1,4 @@
 ---
-title: NPCs
+title: A New World
 bookCollapseSection: true
 ---

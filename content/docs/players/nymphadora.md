@@ -3,7 +3,7 @@ title: "Nymphadora Nightingale"
 ---
 # Nymphadora Nightingale
 ## Summary
-| Level   | 1    |
+| Level   | 2    |
 | ------- | ---- |
 | Species | Elf  |
 | Class   | Bard |
